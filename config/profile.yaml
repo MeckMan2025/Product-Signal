@@ -1,0 +1,26 @@
+# Product-Signal scope profile (editable). Read-only access; narrow by design.
+
+segments:
+  agriculture:
+    subreddits: [farming, tractors, agriculture, precisionag]
+  construction:
+    subreddits: [Construction, heavyequipment, Excavators]
+  turf_landscape:
+    subreddits: [lawncare, landscaping, turf]
+  property_care:
+    subreddits: [homestead, RuralLiving]
+
+# Manufacturer aliases for LOCAL tagging only (matched + LLM-extracted on-device).
+manufacturers:
+  John Deere:   ["john deere", "deere", "jd"]
+  Caterpillar:  ["caterpillar", "cat"]
+  Kubota:       ["kubota"]
+  Komatsu:      ["komatsu"]
+  Case IH:      ["case ih", "case-ih", "caseih"]
+  New Holland:  ["new holland", "newholland"]
+  Bobcat:       ["bobcat"]
+  Kioti:        ["kioti"]
+  Mahindra:     ["mahindra"]
+  Stihl:        ["stihl"]
+  Husqvarna:    ["husqvarna"]
+  Toro:         ["toro"]
