@@ -61,6 +61,11 @@ cp .env.example .env   # fill in once API access is granted
 pytest
 ```
 
-## License
+## License & use
 
-Personal project; all rights reserved unless a license file is added.
+**© 2026 Andrew Meckley. All rights reserved. Proprietary — no license granted.**
+
+This repository is public for reference and transparency only. **You may not use,
+copy, modify, or distribute any part of this code without prior written
+permission.** Viewing it on GitHub grants no rights. To request permission,
+contact the owner via [GitHub](https://github.com/MeckMan2025). See [LICENSE](LICENSE).
