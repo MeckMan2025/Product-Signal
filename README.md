@@ -12,11 +12,11 @@ pain points** by topic and manufacturer — entirely on local hardware.
 
 1. **Read** public posts/comments from a fixed set of equipment-related subreddits
    (agriculture, construction, turf/landscaping, property care) via the Reddit
-   Data API — **read-only**.
+   Data API — **read-only**, once per day, at low volume (rate-limit aware).
 2. **Classify** each item locally with a pre-trained, on-device language model:
    segment, manufacturer(s) mentioned, product, and a product pain-point summary.
-3. **Organize** the results locally — by topic and by manufacturer — into a private
-   summary for personal analysis.
+3. **Organize** the results locally — by manufacturer and topic — into a private
+   daily email digest for personal analysis. Nothing is published or shared.
 
 It does **not** post, comment, vote, or message. It has no interactive presence on
 Reddit.
