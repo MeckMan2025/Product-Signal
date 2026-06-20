@@ -1,0 +1,36 @@
+{
+  "farming": [
+    {
+      "id": "a1",
+      "title": "In-cab display freezes during planting and dealer can't source the part",
+      "selftext": "My tractor's display keeps freezing mid-pass and the dealer says the replacement is 6 weeks out.",
+      "subreddit": "farming",
+      "permalink": "/r/farming/comments/a1/display_freezes/",
+      "score": 42,
+      "num_comments": 17,
+      "created_utc": 1718000000.0
+    },
+    {
+      "id": "a2",
+      "title": "Best cover crop for heavy clay soil?",
+      "selftext": "Looking for advice for next season.",
+      "subreddit": "farming",
+      "permalink": "/r/farming/comments/a2/cover_crop/",
+      "score": 10,
+      "num_comments": 3,
+      "created_utc": 1718001000.0
+    }
+  ],
+  "lawncare": [
+    {
+      "id": "b1",
+      "title": "Mower deck belt keeps slipping",
+      "selftext": "Third belt this season, getting frustrated.",
+      "subreddit": "lawncare",
+      "permalink": "/r/lawncare/comments/b1/belt_slipping/",
+      "score": 8,
+      "num_comments": 5,
+      "created_utc": 1718002000.0
+    }
+  ]
+}
